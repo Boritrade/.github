@@ -1,23 +1,52 @@
 # Boritrade LLC
 
-**Empowering Traders with Smarter Insights**
+**Software Publishing & Technology Advisory**
 
-Welcome to Boritrade, an AI-powered trading assistant designed to simplify cryptocurrency trading for everyone. Our platform analyzes market trends in real-time, delivering actionable buy/sell signals and customizable alerts to help users make informed decisions without the need for technical expertise.
+We help funded startups, growing businesses, and operators who've outgrown
+their current technology design, build, secure, and run software that actually
+scales with them. Where most advisors stop at recommendations, we build.
 
 ---
 
-## About Us
+### What We Do
 
-Boritrade LLC was founded by a computer science graduate and self-taught trader who recognized the complexities and inaccessibility of existing trading tools, especially for platforms like Binance US. Our mission is to democratize algorithmic trading by providing:
+**Custom Software & SaaS Development**
+We build web applications, MVPs, integrations, and internal tools tailored to
+your workflows. Clean architecture, clear documentation, and a handoff package
+your future team can actually use — not a black box only we can operate.
 
-- **Pre-Built Trading Algorithms**: Choose from any of our tested strategies with clear entry/exit rules.
-- **Real-Time Market Monitoring**: Track unlimited tickers with updates every 10 minutes.
-- **AI-Driven Signals**: Receive buy/sell recommendations based on tested trading algorithms tailored for various market conditions.
-- **Customizable Alerts**: Set personalized notifications to stay ahead in the market.
-- **User-Friendly Dashboard**: Access trade history and insights with ease.
-- **Custom API and Exchange Integrations**: Connect multiple platforms for a seamless trading experience.
+**Software Stack Audits**
+Structured assessments of your complete technology footprint: infrastructure,
+codebase quality, SaaS spend, security posture, vendor dependencies, and team
+readiness. Every audit produces a standardized deliverable — technical health
+scorecard, prioritized findings, and M&A-ready documentation.
 
-We envision a future where effective algorithmic trading isn't exclusive to hedge funds or professional traders but is used by all.
+**Technology Strategy & AI Advisory**
+Senior advisory for leadership teams navigating AI integration, stack
+modernization, build-vs-buy decisions, and operational automation.
+Deliverables include a strategy report and prioritized implementation roadmap.
+
+**IT Infrastructure Setup & Management**
+Secure-by-design, privacy-by-default environments: Google Workspace,
+Microsoft 365, cloud platforms, DNS, identity, access control, and monitoring —
+built correctly from day one.
+
+---
+
+### Our Software
+
+We publish open-source components alongside private, production-grade systems.
+Client work is private, however our public work is here a showcase of our 
+engineering capability and our contribution to the community.
+
+---
+
+### Core Values
+
+- We understand and document every line of code we deliver.
+- We leverage AI to accelerate work, but accountability stays with us.
+- We prioritize secure by design, private by default philosophy in everything we build.
+- When you succeed, we succeed.
 
 ---
 
@@ -28,26 +57,14 @@ At Boritrade, we believe in aligning financial growth with environmental respons
 - Allocating a portion of our revenue to carbon removal projects.
 - Investing in environmental restoration, renewable energy, and sustainable technology.
 
----
+### Get in Touch
 
-## Subscription Plans
+- **Website:** [boritrade.com](https://boritrade.com)
+- **Email:** support@boritrade.net
+- **Instagram:** [@Boritrade](https://www.instagram.com/boritrade)
+- **X / Twitter:** [@BoritradeLLC](https://x.com/BoritradeLLC)
+- **LinkedIn:** [Boritrade LLC](https://linkedin.com/company/boritrade)
 
-- **Free Trial**: Explore algorithmic trading insights with limited notifications and access to all trading algorithms.
-- **Pro Plan ($29.97/month)**: Unlock unlimited notifications, advanced customization, and expanded trade history logs.
-- **Premium Plan ($99.97/month)**: Experience hands-free trading with automatic trade execution, priority support, and early access to new features.
-
----
-
-## Contact Us
-
-- **Website**: [https://boritrade.net](https://boritrade.net)
-- **Email**: [support@boritrade.net](mailto:support@boritrade.net)
-- **Social Media**:
-  - Instagram - [@Boritrade](https://www.instagram.com/boritrade)
-  - Twitter - [@BoritradeLLC](https://x.com/BoritradeLLC)
-  - TikTok - [@Boritrade](https://tiktok.com/@boritrade)
-  - Threads - [@Boritrade](https://www.threads.com/@boritrade)
-  - [Discord Channel](https://discord.com/channels/1349431066229997608/1349431066229997611)
-
-
----
+> *Boritrade LLC is registered in Newark, Delaware.*
+> *Operations are based in the Chicago metropolitan area.*
+> *Services are delivered remotely across the US and internationally.*
