@@ -5,6 +5,7 @@
 Boritrade provides technology advisory and custom software development for
 founders and operators who need senior technical judgment — without the
 overhead of a large firm. Where most advisors stop at recommendations, we build.
+
 ---
 
 ### What We Do
