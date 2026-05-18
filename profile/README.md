@@ -2,9 +2,9 @@
 
 **Software Publishing & Technology Advisory**
 
-We help funded startups, growing businesses, and operators who've outgrown
-their current technology design, build, secure, and run software that actually
-scales with them. Where most advisors stop at recommendations, we build.
+Boritrade provides technology advisory and custom software development for
+founders and operators who need senior technical judgment — without the
+overhead of a large firm. Where most advisors stop at recommendations, we build.
 
 ---
 
@@ -12,8 +12,8 @@ scales with them. Where most advisors stop at recommendations, we build.
 
 **Custom Software & SaaS Development**
 We build web applications, MVPs, integrations, and internal tools tailored to
-your workflows. Clean architecture, clear documentation, and a handoff package
-your future team can actually use — not a black box only we can operate.
+your workflows. Every release reflects the same standards we bring to client work:
+maintainable, secure, and documented.
 
 **Software Stack Audits**
 Structured assessments of your complete technology footprint: infrastructure,
@@ -36,7 +36,7 @@ built correctly from day one.
 ### Our Software
 
 We publish open-source components alongside private, production-grade systems.
-Client work is private, however our public work is here a showcase of our 
+Client work is private, however our public work is here a showcase of our
 engineering capability and our contribution to the community.
 
 ---
